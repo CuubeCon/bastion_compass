@@ -1,3 +1,10 @@
 {
-    "item.bastioncompassmod.bastion_compass" : "Bastion Compass"
+    "item.bastioncompassmod.bastion_compass" : "Bastion Compass",
+
+    "dialog.bastioncompassmod.firstMessage"  : "<ZombifiedPiglin> Can't you find your way to my former friends? If you give me a crossbow I'll help you",
+    "dialog.bastioncompassmod.inTrade" : "<ZombifiedPiglin> One moment ...",
+    "dialog.bastioncompassmod.needCrossbow"  : "<ZombifiedPiglin> I need a Crossbow",
+    "dialog.bastioncompassmod.alreadyTraded"   : "<ZombifiedPiglin> I have already traded",
+    "dialog.bastioncompassmod.tradeFinished"   : "<ZombifiedPiglin> Here's your Compass",
+    "dialog.bastioncompassmod.notFound"    : "<ZombifiedPiglin> I have not found a bastion"
 }
