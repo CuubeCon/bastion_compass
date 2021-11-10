@@ -1,16 +1,13 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "GDG",
-    "DCD",
-    "GDG"
+    "GGG",
+    "GCG",
+    "GGG"
   ],
   "key": {
     "C": {
       "item": "minecraft:compass"
-    },
-    "D": {
-      "item": "minecraft:diamond"
     },
     "G": {
       "item": "minecraft:gold_ingot"
