@@ -34,7 +34,11 @@ logoFile="bastioncompassmod.png" #optional
 authors="CubeCon" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
+Tired of not finding a bastion in the nether?
 
+
+
+This Mod introduce a new compass item. Right click with it a ZombifiedPiglin with a crossbow in the inventory and after a while the compass points to a bastion, if a bastion is found within a radius of 400 blocks. Sneak Right click and remove the coords. But keep in mind, that you only can reset it once, because the item has only two durability.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.bastioncompassmod]] #optional
